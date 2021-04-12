@@ -8,7 +8,7 @@ const Header = () => {
         <ul className="header__nav__menu">
           <li className="header__nav__menu__item">
             <a
-              href="/#projects"
+              href="/portfolio/#projects"
               aria-label="Projects"
               rel="noopener noreferrer"
             >
@@ -16,7 +16,7 @@ const Header = () => {
             </a>
           </li>
           <li className="header__nav__menu__item">
-            <a href="/#about" aria-label="About" rel="noopener noreferrer">
+            <a href="/portfolio/#about" aria-label="About" rel="noopener noreferrer">
               About
             </a>
           </li>
