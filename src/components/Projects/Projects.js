@@ -14,7 +14,7 @@ const Projects = () => {
     {
       img: "./images/ag.png",
       title: "Autogestión",
-      techs: ["angular", "redux", "sass", "nodejs", "express", "mysql"],
+      techs: ["angular", "typescript", "redux", "sass", "nodejs", "express", "mysql"],
       gh: "https://autogestion.batan.coop/#/",
       demo: "https://autogestion.batan.coop/#/",
     },
