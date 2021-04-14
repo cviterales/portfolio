@@ -33,7 +33,7 @@ const Header = () => {
           <li className="header__nav__menu__item">
             <a
               target="_blank"
-              href="./files/CristianViteralesCv.pdf"
+              href="./files/CV.pdf"
               title="cv"
               aria-label="CV"
               rel="noopener noreferrer"
